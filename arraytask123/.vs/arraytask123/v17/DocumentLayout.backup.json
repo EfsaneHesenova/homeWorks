@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\arraytask123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96146B4A-BBB8-4DBC-9459-120FF82C1E03}|arraytask123\\arraytask123.csproj|c:\\users\\user\\source\\repos\\arraytask123\\arraytask123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96146B4A-BBB8-4DBC-9459-120FF82C1E03}|arraytask123\\arraytask123.csproj|solutionrelative:arraytask123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\arraytask123\\arraytask123\\Program.cs",
+              "RelativeDocumentMoniker": "arraytask123\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\arraytask123\\arraytask123\\Program.cs",
+              "RelativeToolTip": "arraytask123\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:36:26.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

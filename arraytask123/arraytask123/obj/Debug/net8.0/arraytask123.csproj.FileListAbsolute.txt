@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\arraytask123\arraytask123\bin\Debug\net8.0\arraytask123.exe
+C:\Users\User\source\repos\arraytask123\arraytask123\bin\Debug\net8.0\arraytask123.deps.json
+C:\Users\User\source\repos\arraytask123\arraytask123\bin\Debug\net8.0\arraytask123.runtimeconfig.json
+C:\Users\User\source\repos\arraytask123\arraytask123\bin\Debug\net8.0\arraytask123.dll
+C:\Users\User\source\repos\arraytask123\arraytask123\bin\Debug\net8.0\arraytask123.pdb
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.AssemblyInfo.cs
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.dll
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\refint\arraytask123.dll
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.pdb
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\arraytask123.genruntimeconfig.cache
+C:\Users\User\source\repos\arraytask123\arraytask123\obj\Debug\net8.0\ref\arraytask123.dll
