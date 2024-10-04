@@ -106,7 +106,7 @@ else
 
 
 #region task6
-loat salary = 800f;
+float salary = 800f;
 float credit = 3300f;
 if (credit > salary * 12 * 0.6)
 {
