@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.AssemblyInfo.cs
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array.Resize\Array.Resize\bin\Debug\net8.0\Array.Resize.exe
+C:\Users\User\source\repos\Array.Resize\Array.Resize\bin\Debug\net8.0\Array.Resize.deps.json
+C:\Users\User\source\repos\Array.Resize\Array.Resize\bin\Debug\net8.0\Array.Resize.runtimeconfig.json
+C:\Users\User\source\repos\Array.Resize\Array.Resize\bin\Debug\net8.0\Array.Resize.dll
+C:\Users\User\source\repos\Array.Resize\Array.Resize\bin\Debug\net8.0\Array.Resize.pdb
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.dll
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\refint\Array.Resize.dll
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.pdb
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\Array.Resize.genruntimeconfig.cache
+C:\Users\User\source\repos\Array.Resize\Array.Resize\obj\Debug\net8.0\ref\Array.Resize.dll
