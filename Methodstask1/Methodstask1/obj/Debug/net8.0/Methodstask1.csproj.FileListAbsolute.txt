@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Methodstask1\Methodstask1\bin\Debug\net8.0\Methodstask1.exe
+C:\Users\User\source\repos\Methodstask1\Methodstask1\bin\Debug\net8.0\Methodstask1.deps.json
+C:\Users\User\source\repos\Methodstask1\Methodstask1\bin\Debug\net8.0\Methodstask1.runtimeconfig.json
+C:\Users\User\source\repos\Methodstask1\Methodstask1\bin\Debug\net8.0\Methodstask1.dll
+C:\Users\User\source\repos\Methodstask1\Methodstask1\bin\Debug\net8.0\Methodstask1.pdb
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.AssemblyInfo.cs
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.dll
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\refint\Methodstask1.dll
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.pdb
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\Methodstask1.genruntimeconfig.cache
+C:\Users\User\source\repos\Methodstask1\Methodstask1\obj\Debug\net8.0\ref\Methodstask1.dll

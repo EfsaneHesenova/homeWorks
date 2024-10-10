@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Methodstask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E50F79D-4F11-4FB5-B08A-DCE78FE8396A}|Methodstask1\\Methodstask1.csproj|c:\\users\\user\\source\\repos\\methodstask1\\methodstask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E50F79D-4F11-4FB5-B08A-DCE78FE8396A}|Methodstask1\\Methodstask1.csproj|solutionrelative:methodstask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Methodstask1\\Methodstask1\\Program.cs",
+              "RelativeDocumentMoniker": "Methodstask1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Methodstask1\\Methodstask1\\Program.cs",
+              "RelativeToolTip": "Methodstask1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:04:20.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
