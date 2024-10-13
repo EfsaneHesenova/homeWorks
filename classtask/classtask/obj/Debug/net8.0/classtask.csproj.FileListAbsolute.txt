@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\classtask\classtask\bin\Debug\net8.0\classtask.exe
+C:\Users\User\source\repos\classtask\classtask\bin\Debug\net8.0\classtask.deps.json
+C:\Users\User\source\repos\classtask\classtask\bin\Debug\net8.0\classtask.runtimeconfig.json
+C:\Users\User\source\repos\classtask\classtask\bin\Debug\net8.0\classtask.dll
+C:\Users\User\source\repos\classtask\classtask\bin\Debug\net8.0\classtask.pdb
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.AssemblyInfo.cs
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.dll
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\refint\classtask.dll
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.pdb
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\classtask.genruntimeconfig.cache
+C:\Users\User\source\repos\classtask\classtask\obj\Debug\net8.0\ref\classtask.dll
