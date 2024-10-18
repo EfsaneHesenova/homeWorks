@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Class2Task\Class2Task\bin\Debug\net8.0\Class2Task.exe
+C:\Users\User\source\repos\Class2Task\Class2Task\bin\Debug\net8.0\Class2Task.deps.json
+C:\Users\User\source\repos\Class2Task\Class2Task\bin\Debug\net8.0\Class2Task.runtimeconfig.json
+C:\Users\User\source\repos\Class2Task\Class2Task\bin\Debug\net8.0\Class2Task.dll
+C:\Users\User\source\repos\Class2Task\Class2Task\bin\Debug\net8.0\Class2Task.pdb
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.AssemblyInfo.cs
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.dll
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\refint\Class2Task.dll
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.pdb
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\Class2Task.genruntimeconfig.cache
+C:\Users\User\source\repos\Class2Task\Class2Task\obj\Debug\net8.0\ref\Class2Task.dll

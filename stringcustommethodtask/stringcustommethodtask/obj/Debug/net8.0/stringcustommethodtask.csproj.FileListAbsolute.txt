@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\bin\Debug\net8.0\stringcustommethodtask.exe
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\bin\Debug\net8.0\stringcustommethodtask.deps.json
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\bin\Debug\net8.0\stringcustommethodtask.runtimeconfig.json
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\bin\Debug\net8.0\stringcustommethodtask.dll
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\bin\Debug\net8.0\stringcustommethodtask.pdb
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.AssemblyInfo.cs
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.dll
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\refint\stringcustommethodtask.dll
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.pdb
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\stringcustommethodtask.genruntimeconfig.cache
+C:\Users\User\source\repos\stringcustommethodtask\stringcustommethodtask\obj\Debug\net8.0\ref\stringcustommethodtask.dll

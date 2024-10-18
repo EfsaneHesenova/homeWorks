@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Class2Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|c:\\users\\user\\source\\repos\\class2task\\class2task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|solutionrelative:class2task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|c:\\users\\user\\source\\repos\\class2task\\class2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|solutionrelative:class2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|c:\\users\\user\\source\\repos\\class2task\\class2task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B495293-5C69-49E9-BEE5-5A6099D83874}|Class2Task\\Class2Task.csproj|solutionrelative:class2task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Student.cs",
+              "RelativeDocumentMoniker": "Class2Task\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Student.cs",
+              "RelativeToolTip": "Class2Task\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:31:36.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Group.cs",
+              "RelativeDocumentMoniker": "Class2Task\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Group.cs",
+              "RelativeToolTip": "Class2Task\\Group.cs",
+              "ViewState": "AgIAAC8AAABAZmZmZuYQwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:31:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Program.cs",
+              "RelativeDocumentMoniker": "Class2Task\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Class2Task\\Class2Task\\Program.cs",
+              "RelativeToolTip": "Class2Task\\Program.cs",
+              "ViewState": "AgIAAEYAAACAyszMzMwHwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:30:46.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
