@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WeaponProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E48F9-2252-4830-9F0A-3D3F93F929DC}|WeaponProject\\WeaponProject.csproj|c:\\users\\user\\source\\repos\\weaponproject\\weaponproject\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E48F9-2252-4830-9F0A-3D3F93F929DC}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E48F9-2252-4830-9F0A-3D3F93F929DC}|WeaponProject\\WeaponProject.csproj|c:\\users\\user\\source\\repos\\weaponproject\\weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E48F9-2252-4830-9F0A-3D3F93F929DC}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Weapon.cs",
+              "RelativeToolTip": "WeaponProject\\Models\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:51:38.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
+              "RelativeToolTip": "WeaponProject\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:16:35.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
