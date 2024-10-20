@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\bin\Debug\net8.0\ValidatorLibrary.deps.json
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\bin\Debug\net8.0\ValidatorLibrary.dll
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\bin\Debug\net8.0\ValidatorLibrary.pdb
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.dll
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\refint\ValidatorLibrary.dll
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ValidatorLibrary.pdb
+C:\Users\User\source\repos\Accessmodifierstask\ValidatorLibrary\obj\Debug\net8.0\ref\ValidatorLibrary.dll

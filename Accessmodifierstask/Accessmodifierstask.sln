@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessmodifierstask", "Accessmodifierstask\Accessmodifierstask.csproj", "{293C55A5-9363-49AD-B95F-5BEE996542EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorLibrary", "ValidatorLibrary\ValidatorLibrary.csproj", "{0DE9D923-F764-4ADA-B2EB-8F8EBBB19AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293C55A5-9363-49AD-B95F-5BEE996542EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293C55A5-9363-49AD-B95F-5BEE996542EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293C55A5-9363-49AD-B95F-5BEE996542EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293C55A5-9363-49AD-B95F-5BEE996542EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE9D923-F764-4ADA-B2EB-8F8EBBB19AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE9D923-F764-4ADA-B2EB-8F8EBBB19AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE9D923-F764-4ADA-B2EB-8F8EBBB19AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE9D923-F764-4ADA-B2EB-8F8EBBB19AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112F6625-5439-4640-8EB5-D76B62FB16DC}
+	EndGlobalSection
+EndGlobal
