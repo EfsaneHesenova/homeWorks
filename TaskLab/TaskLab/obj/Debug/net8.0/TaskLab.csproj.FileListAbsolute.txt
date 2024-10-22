@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TaskLab\TaskLab\bin\Debug\net8.0\TaskLab.exe
+C:\Users\User\source\repos\TaskLab\TaskLab\bin\Debug\net8.0\TaskLab.deps.json
+C:\Users\User\source\repos\TaskLab\TaskLab\bin\Debug\net8.0\TaskLab.runtimeconfig.json
+C:\Users\User\source\repos\TaskLab\TaskLab\bin\Debug\net8.0\TaskLab.dll
+C:\Users\User\source\repos\TaskLab\TaskLab\bin\Debug\net8.0\TaskLab.pdb
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.dll
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\refint\TaskLab.dll
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.pdb
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\TaskLab.genruntimeconfig.cache
+C:\Users\User\source\repos\TaskLab\TaskLab\obj\Debug\net8.0\ref\TaskLab.dll
