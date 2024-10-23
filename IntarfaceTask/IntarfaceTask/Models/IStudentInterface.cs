@@ -10,7 +10,7 @@ namespace IntarfaceTask.Models
     {
         Student GetStudentById(int id);
         Student[] GEtAllStudents();
-        Student[] GetStudentsByName(string name);
+        Student[] GetStudentsByName(string nam);
         void AddStudent(Student student);
         void UpdateStudent(int id);
         void RemoveStudent(int id, bool isSoftDelete);

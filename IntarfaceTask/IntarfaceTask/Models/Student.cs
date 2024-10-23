@@ -18,6 +18,11 @@ internal class Student
     public string Major {  get; set; }
 
     protected Student[] students = new Student[0];
+
+    public Student()
+    {
+        
+    }
     public Student (string firstName, string lastName, string email, string phoneNumber, double gpa, string status, string major)
     {
         _id++;

@@ -8,6 +8,10 @@ namespace IntarfaceTask.Models
 {
     internal class StudentService : Student, IStudentService
     {
+        public StudentService()
+        {
+            
+        }
         public StudentService(string firstName, string lastName, string email, string phoneNumber, double gpa, string status, string major) : base(firstName, lastName, email, phoneNumber, gpa, status, major)
         {
         }
@@ -56,7 +60,7 @@ namespace IntarfaceTask.Models
 
         }
 
-        public void RemoveStudent(int id, bool isSoftDelete = false)
+        public void RemoveStudent(int id, bool isSoftDelete)
         {
             for (int i = 0; i < students.Length; i++)
             {

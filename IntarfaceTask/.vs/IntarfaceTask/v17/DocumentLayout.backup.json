@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|c:\\users\\user\\source\\repos\\intarfacetask\\intarfacetask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|solutionrelative:intarfacetask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|c:\\users\\user\\source\\repos\\intarfacetask\\intarfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|solutionrelative:intarfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|c:\\users\\user\\source\\repos\\intarfacetask\\intarfacetask\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|solutionrelative:intarfacetask\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|c:\\users\\user\\source\\repos\\intarfacetask\\intarfacetask\\models\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|solutionrelative:intarfacetask\\models\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|c:\\users\\user\\source\\repos\\intarfacetask\\intarfacetask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4148A-000A-448B-B5C4-1B37BC04EEC9}|IntarfaceTask\\IntarfaceTask.csproj|solutionrelative:intarfacetask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\StudentService.cs",
+              "RelativeDocumentMoniker": "IntarfaceTask\\Models\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\StudentService.cs*",
+              "RelativeToolTip": "IntarfaceTask\\Models\\StudentService.cs*",
+              "ViewState": "AgIAAA4AAACAAwAAAMAwwD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:15:06.519Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,33 +49,33 @@
               "RelativeDocumentMoniker": "IntarfaceTask\\Models\\IStudentInterface.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\IStudentInterface.cs",
               "RelativeToolTip": "IntarfaceTask\\Models\\IStudentInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAACAZmZmZmYEwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:16:27.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\Student.cs",
               "RelativeDocumentMoniker": "IntarfaceTask\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\Student.cs*",
-              "RelativeToolTip": "IntarfaceTask\\Models\\Student.cs*",
-              "ViewState": "AgIAAAwAAADgmZmZmZkuwBIAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Models\\Student.cs",
+              "RelativeToolTip": "IntarfaceTask\\Models\\Student.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:11:48.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Program.cs",
               "RelativeDocumentMoniker": "IntarfaceTask\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Program.cs",
-              "RelativeToolTip": "IntarfaceTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\IntarfaceTask\\IntarfaceTask\\Program.cs*",
+              "RelativeToolTip": "IntarfaceTask\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:10:47.324Z",
               "EditorCaption": ""
