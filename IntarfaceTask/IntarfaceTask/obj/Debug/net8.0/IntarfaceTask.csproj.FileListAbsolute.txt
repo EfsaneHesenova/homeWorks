@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.AssemblyInfo.cs
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\bin\Debug\net8.0\IntarfaceTask.exe
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\bin\Debug\net8.0\IntarfaceTask.deps.json
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\bin\Debug\net8.0\IntarfaceTask.runtimeconfig.json
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\bin\Debug\net8.0\IntarfaceTask.dll
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\bin\Debug\net8.0\IntarfaceTask.pdb
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.dll
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\refint\IntarfaceTask.dll
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.pdb
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\IntarfaceTask.genruntimeconfig.cache
+C:\Users\User\source\repos\IntarfaceTask\IntarfaceTask\obj\Debug\net8.0\ref\IntarfaceTask.dll
