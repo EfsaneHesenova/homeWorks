@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Indexertask\Indexertask\bin\Debug\net8.0\Indexertask.exe
+C:\Users\User\source\repos\Indexertask\Indexertask\bin\Debug\net8.0\Indexertask.deps.json
+C:\Users\User\source\repos\Indexertask\Indexertask\bin\Debug\net8.0\Indexertask.runtimeconfig.json
+C:\Users\User\source\repos\Indexertask\Indexertask\bin\Debug\net8.0\Indexertask.dll
+C:\Users\User\source\repos\Indexertask\Indexertask\bin\Debug\net8.0\Indexertask.pdb
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.AssemblyInfo.cs
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.dll
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\refint\Indexertask.dll
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.pdb
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\Indexertask.genruntimeconfig.cache
+C:\Users\User\source\repos\Indexertask\Indexertask\obj\Debug\net8.0\ref\Indexertask.dll
