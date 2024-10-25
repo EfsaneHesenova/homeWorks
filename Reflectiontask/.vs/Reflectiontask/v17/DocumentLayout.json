@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Reflectiontask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC6EB63-887A-40E8-9A89-A6098D81BB45}|Reflectiontask\\Reflectiontask.csproj|c:\\users\\user\\source\\repos\\reflectiontask\\reflectiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC6EB63-887A-40E8-9A89-A6098D81BB45}|Reflectiontask\\Reflectiontask.csproj|solutionrelative:reflectiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC6EB63-887A-40E8-9A89-A6098D81BB45}|Reflectiontask\\Reflectiontask.csproj|c:\\users\\user\\source\\repos\\reflectiontask\\reflectiontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC6EB63-887A-40E8-9A89-A6098D81BB45}|Reflectiontask\\Reflectiontask.csproj|solutionrelative:reflectiontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reflectiontask\\Reflectiontask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Reflectiontask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reflectiontask\\Reflectiontask\\Models\\User.cs",
+              "RelativeToolTip": "Reflectiontask\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:53:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reflectiontask\\Reflectiontask\\Program.cs",
+              "RelativeDocumentMoniker": "Reflectiontask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reflectiontask\\Reflectiontask\\Program.cs",
+              "RelativeToolTip": "Reflectiontask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:52:23.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

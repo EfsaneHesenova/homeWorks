@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\bin\Debug\net8.0\Reflectiontask.exe
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\bin\Debug\net8.0\Reflectiontask.deps.json
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\bin\Debug\net8.0\Reflectiontask.runtimeconfig.json
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\bin\Debug\net8.0\Reflectiontask.dll
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\bin\Debug\net8.0\Reflectiontask.pdb
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.dll
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\refint\Reflectiontask.dll
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.pdb
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\Reflectiontask.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflectiontask\Reflectiontask\obj\Debug\net8.0\ref\Reflectiontask.dll
