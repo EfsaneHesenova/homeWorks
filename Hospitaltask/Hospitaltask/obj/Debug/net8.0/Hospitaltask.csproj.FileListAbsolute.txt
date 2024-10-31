@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\bin\Debug\net8.0\Hospitaltask.exe
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\bin\Debug\net8.0\Hospitaltask.deps.json
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\bin\Debug\net8.0\Hospitaltask.runtimeconfig.json
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\bin\Debug\net8.0\Hospitaltask.dll
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\bin\Debug\net8.0\Hospitaltask.pdb
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.AssemblyInfo.cs
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.dll
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\refint\Hospitaltask.dll
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.pdb
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\Hospitaltask.genruntimeconfig.cache
+C:\Users\User\source\repos\Hospitaltask\Hospitaltask\obj\Debug\net8.0\ref\Hospitaltask.dll
