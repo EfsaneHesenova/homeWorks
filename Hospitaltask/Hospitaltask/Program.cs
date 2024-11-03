@@ -13,6 +13,8 @@ namespace Hospitaltask
             string dName;
             string pName;
             int userId;
+            DateTime userStart;
+            DateTime userEnd;
 
             AppointmentService service = new AppointmentService();
 
@@ -25,7 +27,8 @@ namespace Hospitaltask
                     4. Bu həftəki appointment-lərə bax
                     5. Bugünki appointment-lərə bax
                     6. Bitməmiş appointmentlərə bax
-                    7. Menudan çıx
+                    7. Araliqdaki appointmentlere bax
+                    8. Menudan çıx
                     """);
                 Console.Write("select option: ");
                 choose = Console.ReadLine();
@@ -74,6 +77,18 @@ namespace Hospitaltask
                         }
                         break;
                     case "7":
+                        Console.Write("baslangic tarix: ");
+                        userStart = DateTime.Parse(Console.ReadLine());
+                        Console.Write("son tarix: ");
+                        userEnd = DateTime.Parse(Console.ReadLine());
+                        List<Appointment> filterAppointments = service.FilterAppointment(userStart, userEnd);
+                        foreach (var item in filterAppointments)
+                        {
+                            Console.WriteLine($"id: {item.Id} \nPatient: {item.PatientName} \nDoctor: {item.DoctorName} \nStart Date: {item.StartDate} \nEnd Date: {item.EndDate} ");
+                        }
+
+                        break;
+                    case "8":
                         running = false;
                         break;
                 }

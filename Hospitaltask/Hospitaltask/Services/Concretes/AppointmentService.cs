@@ -37,6 +37,20 @@ namespace Hospitaltask.Services.Concretes
             
         }
 
+        public List<Appointment> FilterAppointment(DateTime start, DateTime end)
+        {
+            List<Appointment> filterAppointment = [];
+
+            foreach (Appointment item in appointments)
+            {
+                if (item.StartDate >= start && item.StartDate <= end)
+                {
+                    filterAppointment.Add(item);
+                }
+            }
+            return filterAppointment;
+        }
+
         public List<Appointment> GetAllAppointments()
         {
             if (appointments != null)
