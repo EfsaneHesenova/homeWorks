@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.AssemblyInfo.cs
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\I.OBoundTask.exe
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\I.OBoundTask.deps.json
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\I.OBoundTask.runtimeconfig.json
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\I.OBoundTask.dll
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\I.OBoundTask.pdb
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.dll
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\refint\I.OBoundTask.dll
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.pdb
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.genruntimeconfig.cache
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\ref\I.OBoundTask.dll
