@@ -12,3 +12,6 @@ C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\refint\I.O
 C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.pdb
 C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.genruntimeconfig.cache
 C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\ref\I.OBoundTask.dll
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBoundTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\I.OBoundTask\I.OBoundTask\obj\Debug\net8.0\I.OBound.EA86CFA7.Up2Date

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Indexertask\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homeWorks\\Indexertask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|c:\\users\\user\\source\\repos\\indexertask\\indexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|c:\\users\\user\\desktop\\homeworks\\indexertask\\indexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|solutionrelative:indexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|c:\\users\\user\\source\\repos\\indexertask\\indexertask\\models\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|c:\\users\\user\\desktop\\homeworks\\indexertask\\indexertask\\models\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D493D42-31B1-4751-B506-FB53C9C2F95B}|Indexertask\\Indexertask.csproj|solutionrelative:indexertask\\models\\stringlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StringList.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Indexertask\\Indexertask\\Models\\StringList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homeWorks\\Indexertask\\Indexertask\\Models\\StringList.cs",
               "RelativeDocumentMoniker": "Indexertask\\Models\\StringList.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Indexertask\\Indexertask\\Models\\StringList.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homeWorks\\Indexertask\\Indexertask\\Models\\StringList.cs",
               "RelativeToolTip": "Indexertask\\Models\\StringList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T16:15:37.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T16:15:37.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Indexertask\\Indexertask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homeWorks\\Indexertask\\Indexertask\\Program.cs",
               "RelativeDocumentMoniker": "Indexertask\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Indexertask\\Indexertask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homeWorks\\Indexertask\\Indexertask\\Program.cs",
               "RelativeToolTip": "Indexertask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
