@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\services\\concretes\\studentscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\services\\concretes\\studentscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\services\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\services\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\helpers\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\helpers\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\helpers\\invalidtablenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\helpers\\invalidtablenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|c:\\users\\user\\source\\repos\\academydbcrudtask\\academydbcrudtask\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954EDDA-B109-4768-B366-EAF604073A93}|AcademyDBCRUDtask\\AcademyDBCRUDtask.csproj|solutionrelative:academydbcrudtask\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidTableNameException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Helpers\\InvalidTableNameException.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\Helpers\\InvalidTableNameException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Helpers\\InvalidTableNameException.cs",
+              "RelativeToolTip": "AcademyDBCRUDtask\\Helpers\\InvalidTableNameException.cs",
+              "ViewState": "AgIAAAUAAABAZmZmZuYUwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:08:14.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\GlobalUsings.cs",
+              "RelativeToolTip": "AcademyDBCRUDtask\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:13:26.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Helpers\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\Helpers\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Helpers\\ConnectionString.cs",
+              "RelativeToolTip": "AcademyDBCRUDtask\\Helpers\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:03:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsCrud.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Services\\Concretes\\StudentsCrud.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\Services\\Concretes\\StudentsCrud.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Services\\Concretes\\StudentsCrud.cs*",
+              "RelativeToolTip": "AcademyDBCRUDtask\\Services\\Concretes\\StudentsCrud.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:58:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Services\\Interfaces\\ICrud.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\Services\\Interfaces\\ICrud.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Services\\Interfaces\\ICrud.cs",
+              "RelativeToolTip": "AcademyDBCRUDtask\\Services\\Interfaces\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:54:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyDBCRUDtask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyDBCRUDtask\\AcademyDBCRUDtask\\Program.cs*",
+              "RelativeToolTip": "AcademyDBCRUDtask\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAZ2ZmZmb0vwsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:52:30.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
